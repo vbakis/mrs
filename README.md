@@ -1,2 +1,2 @@
 # mrs
-This repository is created for the MOS Reduction Software.
+This repository is created for ...
