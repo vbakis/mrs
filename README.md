@@ -6,3 +6,5 @@ Dependencies:
   -python libraries: myplotlib, numpy, astropy, array, specutils, pathlib, scipy, glob, sys, os, shutil, click, datetime, csv, statistics
 
 Simply check the file names in mrs.py and run it.
+
+The example data can be retreived from http://sfr.akdeniz.edu.tr/download/example_data_for_MRS.zip
